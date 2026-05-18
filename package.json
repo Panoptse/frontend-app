@@ -4,7 +4,7 @@
   "dependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "axios": "0.21.1",
+    "axios": "1.16.1",
     "marked": "4.0.0",
     "lodash": "4.17.15",
     "serialize-javascript": "5.0.0",
